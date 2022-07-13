@@ -1,0 +1,9 @@
+sql commands
+
+
+select * FROM departments;
+select * FROM employees;
+select * FROM salaries;
+select * FROM dept_manager;
+select * FROM dept_emp;
+select * FROM titles:
